@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/abdulrawuff/DadJokes/_apis/build/status%2FMohamedRafiKouserAbdullah.pipelines-java?branchName=main)](https://dev.azure.com/abdulrawuff/DadJokes/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
